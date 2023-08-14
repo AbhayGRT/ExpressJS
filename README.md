@@ -20,19 +20,7 @@ Run the setup.sh file
 ./setup.sh
 ```
 
-## Or you can manually installed all components
-
-# Install npm
-sudo apt install npm
-
-# Initialize Node.js project
-npm init -y
-
-# Install Express.js
-npm install express
-
-# Run the server
-node server.js
-
-
-Here a basic video representation: 
+Server will be running on port number 3000
+```
+https://localhost:3000
+```
