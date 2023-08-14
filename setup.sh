@@ -1,7 +1,8 @@
 #!/bin/bash
 
+sudo apt update
 # Install npm
-sudo apt install npm
+sudo apt install npm -y
 
 # Initialize Node.js project
 npm init -y
