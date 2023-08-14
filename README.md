@@ -8,6 +8,10 @@ git clone https://github.com/AbhayGRT/ExpressJS.git
 ```
 
 ```
+cd ExpressJS
+```
+
+```
 chmod +x setup.sh
 ```
 
